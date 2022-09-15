@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-15T19:08:53 IST" name="Suite" finished-at="2022-09-15T19:09:25 IST" duration-ms="32400">
+    <groups>
+    </groups>
+    <test started-at="2022-09-15T19:08:53 IST" name="Test" finished-at="2022-09-15T19:09:25 IST" duration-ms="32400">
+      <class name="webselenium1.Demo1">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:webselenium1.Demo1@316bcf94]" started-at="2022-09-15T19:08:53 IST" name="beforetest" finished-at="2022-09-15T19:09:06 IST" duration-ms="13713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="windowhandle()[pri:0, instance:webselenium1.Demo1@316bcf94]" started-at="2022-09-15T19:09:06 IST" name="windowhandle" finished-at="2022-09-15T19:09:25 IST" duration-ms="18554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowhandle -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:webselenium1.Demo1@316bcf94]" started-at="2022-09-15T19:09:25 IST" name="aftertest" finished-at="2022-09-15T19:09:25 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- webselenium1.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
